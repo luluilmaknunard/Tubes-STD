@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1733283313 source:c:\users\luluil maknun\documents\c++\cobacoba\main.cpp
+	"cobacoba.h"
+	<iostream>
+	<string>
+
+1733285429 c:\users\luluil maknun\documents\c++\cobacoba\cobacoba.h
+	<string>
+
+1733285437 source:c:\users\luluil maknun\documents\c++\cobacoba\cobacoba.cpp
+	"cobacoba.h"
+	<iostream>
+
